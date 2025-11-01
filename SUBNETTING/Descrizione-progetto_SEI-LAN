@@ -1,0 +1,3 @@
+In questa simulazione vedremo il funzionamento del subnetting similarmente alla simulazione precedente ma con qualche differenza: 
+ci saranno 6 lan, ognuna con caratteristiche diverse, connesse tramite un router iniziale separato connesso ad un INTERLAN che a sua volta è connessa ai due router che permettono la visibilità tra le reti
+
