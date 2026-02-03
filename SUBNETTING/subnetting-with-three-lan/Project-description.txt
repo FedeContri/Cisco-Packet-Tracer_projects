@@ -1,3 +1,1 @@
-In questa simulazione viene mostrato il funzionamento del Subnetting tra diverse LAN che necessitano un determinato numero di host.
-Si partirà da un indirizzo iniziale che avrà a disposizione N numero di ip disponibili che poi verrà subnettato a discrizione delle necessita della lan e di quanti host e ip liberi ha bisogno 
-Tutto ciò partendo da un router iniziae connesso ad un'altro router a suo volta connesso alle lan di cui avremo bisogno. 
+This simulation shows how subnetting works between different LANs that require a certain number of hosts. We will start from an initial address that will have N number of available IPs which will then be subnetted to describe the needs of the LAN and how many hosts and free IPs it needs All this starting from a router starts connected to another router in turn connected to the LANs we will need.
