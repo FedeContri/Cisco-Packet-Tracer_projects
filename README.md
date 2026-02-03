@@ -1,6 +1,6 @@
 # **Cisco Packet Tracer Projects**
 
-## 📌 Overview
+##  Overview
 
 This repository contains a collection of **Cisco Packet Tracer projects** designed to practice and understand **core networking concepts** through hands-on labs.
 
@@ -8,7 +8,7 @@ The projects focus on **realistic network scenarios**, making this repository us
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The main goals of this repository are to:
 
@@ -19,7 +19,7 @@ The main goals of this repository are to:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Projects are organized into folders, each representing a specific networking topic.
 
@@ -39,7 +39,7 @@ Each project usually includes:
 
 ---
 
-## 🧩 Projects
+##  Projects
 
 | **Project** | **Description** |
 |------------|-----------------|
@@ -52,7 +52,7 @@ Each project usually includes:
 
 ---
 
-## ▶️ How to Use
+## ▶ How to Use
 
 ### 1. Install Cisco Packet Tracer
 Make sure you have a compatible version of **Cisco Packet Tracer** installed.
