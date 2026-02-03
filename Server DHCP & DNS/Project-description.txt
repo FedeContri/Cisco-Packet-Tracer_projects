@@ -1,3 +1,1 @@
-In questa simulazione sono mostrate due lan connesse ad un server DHCP rispettivo per ognuna che associa dinamicamente un indirizzo IP ad ogni host collegato allo switch.
-Nella seconda lan inoltre viene mostrato un server DNS a cui ad un record è stato associato un rispettivo indirizzo IP (in questo caso lo stesso del server)
-le due lan sono connesse tramitre due router che permettono la comunicazione e visibilita tra di loro rispettivamente grazie a tabelle di routing statiche 
+In this simulation, two LANs connected to a DHCP server are shown, each dynamically associating an IP address to each host connected to the switch. In the second LAN also shows a DNS server to which a record has been associated with a respective IP address (in this case the same as the server) The two LANs are connected by two routers that allow communication and visibility between them respectively thanks to static routing tables
